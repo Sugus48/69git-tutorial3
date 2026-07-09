@@ -5,6 +5,7 @@ git config --global user.name "Sugus48"
 git config --global --list
 git status
 git add .
+git commit -m "version1"
 git 
 git log
 
@@ -13,6 +14,6 @@ git reset --hard 2b398878fcd4b5e
 
 git remote -v
 
-git push origin master
+git push origin master เอาไฟล์ขึ้น git
 
-git pull origin master
+git pull origin master ดึงไฟล์จากเว็บลงมาใส่ใน vs
