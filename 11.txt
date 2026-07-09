@@ -17,3 +17,9 @@ git remote -v
 git push origin master เอาไฟล์ขึ้น git
 
 git pull origin master ดึงไฟล์จากเว็บลงมาใส่ใน vs
+
+git branch
+git branch develop
+git branch --delete (ชื่อ)
+
+(ย้ายมา develop)
