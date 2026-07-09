@@ -1,3 +1,3 @@
 <?php
-    echo "server";
+    echo "s";
 ?>    
